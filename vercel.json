@@ -9,11 +9,3 @@
     { "source": "/", "destination": "/api/index" }
   ]
 }
-{
-  "crons": [
-    {
-      "path": "/api/sync",
-      "schedule": "0 2 * * *"
-    }
-  ]
-}
